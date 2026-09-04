@@ -98,7 +98,7 @@ int main() {
 
     if (!archivo.is_open()) {
 
-        cout << "Error: no se pudo abrir entrada.txt"
+        cout << "Error: no se pudo abrir enrutador.txt"
              << endl;
 
         return 1;
